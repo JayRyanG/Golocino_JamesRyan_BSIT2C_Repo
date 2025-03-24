@@ -1,4 +1,4 @@
-function bark(name, weight) { 
+function bark(name, weight) {
     if (weight > 20){
         console.log(name + " says WOOF WOOF" );
     } else {
@@ -9,7 +9,7 @@ function bark(name, weight) {
 bark ("Ayam", 23);
 bark ("Antoni", 26);
 bark ("Raul", 18);
-bark ("Bogart", 18)
+bark ("Bogart", 18);
 
 /*var dogName = "Ayam";
 var dogWeight = 23;
